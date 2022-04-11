@@ -1,0 +1,28 @@
+#contact iframe
+{
+    width: 100%;
+}
+.d{
+    border: 1px solid lemonchiffon;
+}
+.d img{
+    width: 100%;
+}
+.d h5,.d p{
+    margin: 20px;
+}
+.m{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.m i{
+    float: right;
+}
+.mt span{
+    color: greenyellow;
+}
+.b{
+    margin-bottom: 20px;
+}
